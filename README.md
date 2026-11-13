@@ -15,3 +15,7 @@ Aprender a controlar las versiones de un proyecto.
 - Aprendí a crear un repositorio.
 - Aprendí a utilizar Git y GitHub.
 - Aprendí a subir proyectos a GitHub.
+## Conclusión
+
+Aprendí a utilizar Git y GitHub para guardar,
+actualizar y compartir mis proyectos.
