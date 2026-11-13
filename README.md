@@ -26,9 +26,3 @@ actualizar y compartir mis proyectos.
 ## Cambios de la rama
 
 Esta sección fue agregada desde la rama feature/documentacion.
-## Sincronización
-
-Este cambio se realizó desde una copia clonada del repositorio.
-## Cambio que se va a revertir
-
-Esta sección se agregará temporalmente.
