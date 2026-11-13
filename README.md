@@ -10,3 +10,8 @@ Aprender a controlar las versiones de un proyecto.
 - Git
 - GitHub
 - Visual Studio Code
+## Aprendizaje
+
+- Aprendí a crear un repositorio.
+- Aprendí a utilizar Git y GitHub.
+- Aprendí a subir proyectos a GitHub.
