@@ -23,3 +23,6 @@ actualizar y compartir mis proyectos.
 
 - Documentar los cambios del proyecto.
 - Mantener un historial de versiones.
+## Cambios de la rama
+
+Esta sección fue agregada desde la rama feature/documentacion.
